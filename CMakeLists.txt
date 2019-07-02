@@ -12,5 +12,5 @@ include_directories(data_structures)
 add_subdirectory(problems)
 include_directories(problems)
 
-add_executable(untitled main.cpp dailycoding/Problem57.cpp dailycoding/Problem57.h data_structures/HashSet.cpp data_structures/HashSet.h)
+add_executable(untitled main.cpp dailycoding/Problem57.cpp dailycoding/Problem57.h data_structures/HashSet.cpp data_structures/HashSet.h )
 add_subdirectory(tests)
